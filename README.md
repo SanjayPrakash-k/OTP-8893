@@ -1,1 +1,2 @@
 # OTP-8893
+This script is for sending email to sales rep(in case sales rep is not assigned, email will be sent to admin with an additional message asking to assign the salesrep for the customer) with attached csv file that contain the last month sales details of customer.
